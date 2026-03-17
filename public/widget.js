@@ -103,7 +103,7 @@
 
   // Create iframe
   var iframe = document.createElement('iframe');
-  iframe.src = WIDGET_BASE_URL + '/widget/' + contractorId;
+ iframe.src = `https://esitmationstation.netlify.app/widget/${contractorId}`;
   iframe.style.cssText = [
     'width: 100%',
     'height: 100%',
