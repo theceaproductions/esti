@@ -1,0 +1,23 @@
+<svg class="w-full h-full" viewBox="0 0 200 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Logo Icon -->
+  <g transform="translate(0, 2)">
+    <circle cx="18" cy="18" r="17" fill="#F97316"/>
+    <path
+      d="M9 15L18 9L27 15V27C27 27.5523 26.5523 28 26 28H10C9.44772 28 9 27.5523 9 27V15Z"
+      fill="white"
+    />
+    <path
+      d="M14 21L17 24L24 15"
+      stroke="#F97316"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+  </g>
+
+  <!-- Text: Estimation -->
+  <text x="45" y="27" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="22" fill="white">Estimation</text>
+
+  <!-- Text: Station -->
+  <text x="155" y="27" font-family="system-ui, -apple-system, sans-serif" font-weight="300" font-size="22" fill="#F97316">Station</text>
+</svg>
